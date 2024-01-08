@@ -5,16 +5,17 @@ TagManager:
   serializedVersion: 2
   tags:
   - Death
+  - Punch
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
   - Ground
   - Death
-  - 
+  - Video
   - 
   - 
   - 
