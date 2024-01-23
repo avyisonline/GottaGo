@@ -30,4 +30,9 @@ public class loadScene : MonoBehaviour
     {
         SceneManager.LoadScene("YouWin");
     }
+
+    public void loadQuit()
+    {
+        SceneManager.LoadScene("Quit");
+    }
 }

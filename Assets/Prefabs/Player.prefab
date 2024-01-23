@@ -172,7 +172,7 @@ GameObject:
   - component: {fileID: 569378261978208208}
   - component: {fileID: 5439264549027819450}
   - component: {fileID: 4993979007395452636}
-  - component: {fileID: 429076755286678642}
+  - component: {fileID: -4525818934800038405}
   m_Layer: 3
   m_Name: Player
   m_TagString: Player
@@ -340,7 +340,7 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
---- !u!114 &429076755286678642
+--- !u!114 &-4525818934800038405
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -349,7 +349,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 3091373708650037378}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: aaf3aa68ec755c445b1376b72f0f0a15, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fb15c155110f7f429d71320e08bf877, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 890427311663659773}
+  health: 5
